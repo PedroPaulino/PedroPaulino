@@ -6,9 +6,9 @@
 
 - 🔭 Atualmente trabalho como Analista de Sistemas e Negócios na **SVP WorldWide**
 
-- 🌱 Estou pós-graduando em **Engenharia de Software**
+- 🌱 Finalizando pós-graduação em **Engenharia de Software**
 
-- ⚡ Encontre-me no linkedin <a style="color:blue;font-weight: bold;" href="https://www.linkedin.com/in/pedro-paulino-software-engineer/">Linkedin</a>
+- ⚡ Encontre-me no linkedin <a target="_blank" style="color:blue;font-weight: bold;" href="https://www.linkedin.com/in/pedro-paulino-software-engineer/">Linkedin</a>
 
 <h3 align="left">Ferramentas e Linguagens de Programação:</h3>
 <p align="left"> 
@@ -21,5 +21,8 @@
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" align="center"  height="30" width="30"/>
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" align="center"  height="30" width="30"/>   
+
+
+
 
 </p>
